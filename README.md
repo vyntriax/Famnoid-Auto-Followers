@@ -1,1 +1,1 @@
-# Famnoid-Auto-Followers
+# Famoid-Auto-Followers
