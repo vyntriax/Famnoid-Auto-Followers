@@ -40,7 +40,7 @@ def solve_audio_captcha(driver):
 if __name__ == "__main__":
     driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
   
-    driver.get("https://www.google.com/recaptcha/api2/demo")
+    driver.get("https://famoid.com/get-free-followers/")
     click_checkbox(driver)
     time.sleep(1)
     request_audio_version(driver)
